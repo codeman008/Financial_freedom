@@ -337,7 +337,7 @@ ETH  L2：[UltraSoundMoney](https://ultrasound.money/)、[L2beat](https://l2beat
 
 ## **4、NFT交易[ NFT tools]**
 
-购买NFT：**[Blur](https://blur.io/)**、 ****[Opensea](https://opensea.io/)、[MagicEden](https://magiceden.io/)
+购买NFT：**[Blur](https://blur.io/)**、 [Opensea](https://opensea.io/)、[MagicEden](https://magiceden.io/)
 
 NFT数据：[NFTGo](https://nftgo.io/whale-tracking/trade)、[UNIQ](https://uniq.cx/)、[NFTeye](https://nfteye.io/)
 
