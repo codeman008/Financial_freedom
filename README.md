@@ -1,3 +1,45 @@
+<div align="center">
+
+## ⭐ Support This Project
+
+如果这个项目帮助你建立了更好的财富认知，欢迎点一个 ⭐ Star 支持！
+
+你的每一次 Star，都是持续更新的动力 ❤️
+
+<div align="center">
+
+<a href="https://github.com/codeman008/Financial_freedom">
+  <img src="https://img.shields.io/github/stars/codeman008/Financial_freedom?style=for-the-badge&logo=github&color=yellow" />
+</a>
+
+<a href="https://github.com/codeman008/Financial_freedom/network/members">
+  <img src="https://img.shields.io/github/forks/codeman008/Financial_freedom?style=for-the-badge&logo=github&color=blue" />
+</a>
+
+<a href="https://github.com/codeman008/Financial_freedom/issues">
+  <img src="https://img.shields.io/github/issues/codeman008/Financial_freedom?style=for-the-badge&logo=github&color=green" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🌱 Road to Financial Freedom
+
+📚 Learn → 💡 Think → 📈 Invest → 🏝 Freedom
+
+持续整理优质投资书籍、财富管理方法和长期价值投资理念。
+
+如果你也相信：
+> 财富自由不是一夜暴富，而是持续学习后的长期复利。
+
+欢迎加入，一起成长 🚀
+
+</div>
+
+---
 # :moneybag: Financial Freedom :moneybag:
 
 ## A Technical Guide to Making Money and Investing
@@ -346,45 +388,45 @@ News: [Followin](https://followin.io/zh-Hant), [coingecko](https://www.coingecko
 
 ## 6. Other Tool Websites
 
-1. [https://www.lookintobitcoin.com/charts/](https://www.lookintobitcoin.com/charts/) **(All Bitcoin models and data in one place)**
+**1. [https://www.lookintobitcoin.com/charts/](https://www.lookintobitcoin.com/charts/) (All Bitcoin models and data in one place)**
 
 Fear & Greed, Rainbow Chart, Stock-to-Flow, Golden Ratio, MVRV, Lightning Network, Hash Rate, Whale Index, Bitcoin Real Price, etc.
 
-2. [https://8marketcap.com/](https://8marketcap.com/) **(Top global assets ranked by market cap)** (Note: original t.co link was a shortener)
+**2. [https://8marketcap.com/](https://8marketcap.com/) (Top global assets ranked by market cap)** (Note: original t.co link was a shortener)
 
-3. [tokenterminal.com](https://tokenterminal.com) **(Aggregated financial data platform for crypto apps)**
+**3. [tokenterminal.com](https://tokenterminal.com) (Aggregated financial data platform for crypto apps)**
 
 Token Terminal is a platform that aggregates financial data on leading blockchains and decentralized applications, comparable to stock market metrics such as P/S ratio, P/E ratio, revenue, protocol (token holder) revenue, costs and fees, earnings, etc.
 
-4. [token.unlocks.app](https://token.unlocks.app) **(Token analysis dashboard)**
+**4. [token.unlocks.app](https://token.unlocks.app) (Token analysis dashboard)**
 
 TokenUnlocks is the best token analysis dashboard for monitoring vested tokens, notifying users of upcoming unlock events, and providing comprehensive tokenomics information. It organizes on-chain and off-chain data to provide the best intuitive user experience.
 
-5. [en.macromicro.me](https://www.macromicro.me/en) **(Comprehensive visual financial data)**
+**5. [en.macromicro.me](https://www.macromicro.me/en) (Comprehensive visual financial data)**
 
 Macroeconomics is the key to every investment, whether it's stocks, forex, bonds, or commodities. Visualize data and trends, and transform complex financial and economic data into dynamic and easy-to-understand charts. The prices of different coins in the same digital currency sector are on the same chart, so you can find undervalued assets that have not yet risen during sector rotation.
 
-6. [cypherhunter.com/en/](https://cypherhunter.com/en/) **(TianYanCha for the Crypto field)**
+**6. [cypherhunter.com/en/](https://cypherhunter.com/en/) (TianYanCha for the Crypto field)**
 
 Crypto project database, project information, well-known personnel association information, institutional information, etc.
 
-7. [twitterscore.io](https://twitterscore.io/) **(Twitter tracking for Crypto projects)**
+**7. [twitterscore.io](https://twitterscore.io/) (Twitter tracking for Crypto projects)**
 
 Crypto and NFT insights based on Twitter followers, with comprehensive fan tag classification, such as angel investors, big Vs, projects, CEOs, media, exchanges, etc.
 
-8. [https://www.stakingrewards.com/](https://www.stakingrewards.com/) **(Comprehensive understanding of staking data)**
+**8. [https://www.stakingrewards.com/](https://www.stakingrewards.com/)(Comprehensive understanding of staking data)**
 
 Make staking safe and simple. Provide institutions and retail investors with the platform, data, and tools needed to navigate the world of staking. Information such as the staking rate, staking market value, and liquid market value of various projects.
 
-9. [cryptorank.io/funds](https://cryptorank.io/funds) **(Information on cryptocurrency funds and big V investors)**
+**9. [cryptorank.io/funds](https://cryptorank.io/funds) (Information on cryptocurrency funds and big V investors)**
 
 Find key data on the investment portfolios of popular venture capital funds and investors. View and compare market performance, investments, and other key metrics. Click on your favorite venture capital fund to gather more insights about its investment portfolio.
 
-10. [https://www.crunchbase.com/](https://www.crunchbase.com/about-us/) **(Company data search, tracking, and monitoring)**
+**10. [https://www.crunchbase.com/](https://www.crunchbase.com/about-us/)(Company data search, tracking, and monitoring)**
 
 Get a more comprehensive understanding of the company data you are interested in and acquire more effective customers.
 
-11. [https://www.theblockcrypto.com/data](https://www.theblockcrypto.com/data) **(All-in-one cryptocurrency research and analysis tool)** (Note: original t.co link was a shortener)
+**11. [https://www.theblockcrypto.com/data](https://www.theblockcrypto.com/data) (All-in-one cryptocurrency research and analysis tool)** (Note: original t.co link was a shortener)
 
 Collects a unique dashboard that can quickly provide a market overview, conducts in-depth research on each project to provide the most important and relevant metrics, and constantly updates the cryptocurrency heat and new coin lists.
 
