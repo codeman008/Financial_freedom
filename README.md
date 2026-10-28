@@ -430,4 +430,8 @@ Get a more comprehensive understanding of the company data you are interested in
 
 Collects a unique dashboard that can quickly provide a market overview, conducts in-depth research on each project to provide the most important and relevant metrics, and constantly updates the cryptocurrency heat and new coin lists.
 
+**12. [top.gg/bot/1125794469829169253](https://top.gg/bot/1125794469829169253) (Crypto Fear & Greed Index on Discord)**
+
+Free Discord bot that shows the Crypto Fear & Greed Index in a server's member list: the bot's nickname is today's value and its status is the change since yesterday, refreshed every 10 minutes. `/fng` gives today's reading and `/fng-history` the last 2-30 days. Data from alternative.me.
+
 :love_letter: **All data and resources are compiled from public platform data.**
